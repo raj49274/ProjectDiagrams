@@ -1,0 +1,18 @@
+--------Two type of seller
+1. Have inventory
+2. Don't Have Inventory
+
+#### 1. Have Inventory ####
+a) Page to Manage inventory
+b) Page to modify the the profile
+c) Page to receive the order and item confirmation
+d) Page to check all transaction (order detail)
+
+#### 2. Don't have Inventory ####
+a) Page to describe their product
+b) Page to modify the the profile
+c) Page to receive the order and item confirmation
+d) Page to check all transaction (order detail)
+
+$$$$ general pages $$
+a) page for 
